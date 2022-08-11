@@ -1,0 +1,13 @@
+# Iniciar projecto com typescript
+    - npm install typescript --save-dev
+    - yarn add typescript -D
+
+# Iniciar `tsconfig.json` 
+    - npx tsc --init
+
+# Gera o build do ficheiro typescript para javascript
+    - npx tsc
+
+# Auto recopilação com codido 
+    - npx tsc -w
+
