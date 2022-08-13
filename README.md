@@ -4,7 +4,7 @@ TypeScript: Estudos
 
 > Projeto de estudo usando como base os cursos:
 > - desenvolvido por [Nelson0Simao](https://github.com/Nelson0Simao/) ;
-> - vídeo aulas do [DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs).
+> - vídeo aulas do canal rocketsear
 > Setup para iniciar projecto com typesctipt.
 
 # Índice
